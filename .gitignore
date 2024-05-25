@@ -10,6 +10,13 @@
 *.userosscache
 *.sln.docstates
 
+#MY IGNORE FILES
+temp*/
+*.resx
+*proj*
+*.sln
+
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
